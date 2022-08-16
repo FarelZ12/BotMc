@@ -1,0 +1,9 @@
+{
+	"ip":"FarelMC12.aternos.me",
+	"port": 54265,
+	"name": "RellBots",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register koclok",
+	"login-cmd":"/login koclok"
+}
